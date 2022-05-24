@@ -1,0 +1,17 @@
+{
+    "name": "rmvit/task04",
+    "autoload": {
+        "psr-4": {
+            "Rmvit\\Task04\\": "src/"
+        },
+        "files": [
+            "src/Test.php",
+            "src/compareStrings.php"
+        ]
+    },
+    "authors": [{
+        "name": "Vitaliy-Ryazin",
+        "email": "rmvitaliy@yandex.ru"
+    }],
+    "require": {}
+}
